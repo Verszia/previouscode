@@ -7,17 +7,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class SaveLoad : MonoBehaviour
-                                                                                        /*READ ME
-                                                                My coding is pretty barebones and might not be able to turn in
-                                                                a full script as it almost entirely depends on the others.
-                                                                When I looked in the main base file on the last day, I did not see
-                                                                any anything too important other than Logan's Skill Tree. Character
-                                                                and Health code did not appear to be in there. Because of this, I was
-                                                                not able to link it completely. The code is actually there though.
-
-                                                                However, I did make a mistake throughout the project, and that was
-                                                                that I was not able to figure out how to save positions. This is my
-                                                                fault and I didn't put enough research into it.*/
 {
     void Update() //update function
     {
